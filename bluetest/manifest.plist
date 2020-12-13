@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://1823933236.gitee.io/veeeipa/bluetest/veee.ipa</string>
+					<string>https://bestvast.github.io/download/bluetest/veee.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://1823933236.gitee.io/veeeipa/57.png</string>
+					<string>https://bestvast.github.io/download/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://1823933236.gitee.io/veeeipa/512.png</string>
+					<string>https://bestvast.github.io/download/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
